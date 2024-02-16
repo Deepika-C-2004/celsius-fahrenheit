@@ -1,0 +1,39 @@
+.wrapper{
+    text-align: center;
+    display: block;
+    border: 2px solid black;
+    padding: 25px;
+    margin-top: 75px;
+    margin-left: 250px;
+    margin-right: 250px;
+    border-radius: 5px;
+}
+.heading{
+    margin: 50px auto;
+    color: coral;
+}
+*{
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+}
+#input{
+    margin: 30px;
+    font-size: larger;
+    padding: 10px;
+}
+.button{
+    padding: 10px;
+    display: block;
+   
+}
+.topic{
+    color: cornflowerblue;
+    margin-top: 10px;
+}
+#result{
+    margin-top: 50px;
+}
+.button:hover{
+    background-color: violet
+}
